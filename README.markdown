@@ -1,10 +1,10 @@
 # Single-Price-Grid-Component-Master
 
 ![Mobile View]
-(mobile.png)
+(https://github.com/ViniciusLagoGehrke/Single-Price-Grid-Component-Master/blob/master/mobile.png)
 
 ![Desktop View]
-(desktop.png)
+(https://github.com/ViniciusLagoGehrke/Single-Price-Grid-Component-Master/blob/master/desktop.png)
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/ViniciusGehrke/pen/LYGXdgG](https://codepen.io/ViniciusGehrke/pen/LYGXdgG).
 
