@@ -2,7 +2,7 @@
 
 On my first exercise I praticed with CSS selectors, variable color in CSS, transform-translate property and more.
 
-![Desktop View](desktop-preview.jpg)
+![Desktop View](desktop-preview.jpg?raw=true)
 
 ![Mobile View](mobile.png?raw=true)
 
