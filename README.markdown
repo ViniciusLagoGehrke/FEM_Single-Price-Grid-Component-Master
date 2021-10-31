@@ -12,5 +12,3 @@ Responsive card using CSS flexbox. In this exercise I pratice CSS selectors, var
 
 
 Please check the [live website](https://single-price-grid-component-master-virid-eta.vercel.app/)
-
-[OnPortfolio](https://front-end-portfolio.vercel.app/)
